@@ -44,4 +44,8 @@ Age Public Key
 
 pubkey: age19eyljfzyhly22spyjnmw6u0zpemz62e95625umgxmp3ft27zs4esgmh90a
 
-![](/images/signature.png)
+<amp-img src="/images/signature.png"
+  width="470"
+  height="315"
+  layout="responsive"
+  alt="AMP"></amp-img>
