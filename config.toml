@@ -16,8 +16,8 @@ paginate = 3
         contentDir = "content"
         languageName = "English"
         languageCode = "en"
-        title = "Amperage theme!"
-        description = "This is an demo for the Amperage theme!"
+        title = "Living Life"
+        description = "Living life and writing things down along the way"
         weight = 1
 
 # Menu elements
@@ -28,13 +28,13 @@ paginate = 3
     weight = 8
 [[menu.main]]
     identifier = "author"
-    name = "The author"
-    url = "https://asur.dev"
+    name = "Paul"
+    url = "https://paulapplegate.com"
     weight = 9
 [[menu.main]]
     identifier = "github"
     name = "The code!"
-    url = "https://github.com/asurbernardo/amperage"
+    url = "https://github.com/theapplegates"
     weight = 10
 
 # Enable only tags taxonomy
@@ -42,7 +42,7 @@ paginate = 3
     tag = "tags"
 
 [params]
-    copyright = "Amperage" # Name shown on footer copyright
+    copyright = "2020 all rights reserved" # Name shown on footer copyright
     themeColor = "#333" # Theme color displayed on mobile browsers
 
     # Default AMP components for the whole site
