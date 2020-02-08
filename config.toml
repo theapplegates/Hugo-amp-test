@@ -42,7 +42,7 @@ paginate = 3
     tag = "tags"
 
 [params]
-    copyright = " all rights reserved" # Name shown on footer copyright
+    copyright = "Paul Applegate" # Name shown on footer copyright
     themeColor = "#333" # Theme color displayed on mobile browsers
 
     # Default AMP components for the whole site
