@@ -44,7 +44,7 @@ Age Public Key:
 age19eyljfzyhly22spyjnmw6u0zpemz62e95625umgxmp3ft27zs4esgmh90a
 {{< /highlight >}}
 
-<amp-img src="/images/signature.png"
+<amp-img src="/images/AF5D4B4E-7F4B-4B03-AA04-D0186EE2D3E7.png"
   width="234"
   height="156"
   alt="AMP"></amp-img>
