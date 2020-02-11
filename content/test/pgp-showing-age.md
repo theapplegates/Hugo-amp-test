@@ -50,6 +50,6 @@ pubkey: age19eyljfzyhly22spyjnmw6u0zpemz62e95625umgxmp3ft27zs4esgmh90a
   alt="AMP"></amp-img>
 
 
-{{< highlight html "linenos=table" >}}
+{{< highlight html >}}
 age19eyljfzyhly22spyjnmw6u0zpemz62e95625umgxmp3ft27zs4esgmh90a
 {{< /highlight >}}
