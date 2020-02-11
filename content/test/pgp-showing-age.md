@@ -39,10 +39,10 @@ Although Age is not even a beta product, it's still in the alpha stage so stay a
 
 So, I guess I should include my [AGE](https://github.com/FiloSottile/age) public key.
 
-Age Public Key
-
-
-pubkey: age19eyljfzyhly22spyjnmw6u0zpemz62e95625umgxmp3ft27zs4esgmh90a
+Age Public Key:
+{{< highlight html >}}
+age19eyljfzyhly22spyjnmw6u0zpemz62e95625umgxmp3ft27zs4esgmh90a
+{{< /highlight >}}
 
 <amp-img src="/images/signature.png"
   width="234"
@@ -50,6 +50,4 @@ pubkey: age19eyljfzyhly22spyjnmw6u0zpemz62e95625umgxmp3ft27zs4esgmh90a
   alt="AMP"></amp-img>
 
 
-{{< highlight html >}}
-age19eyljfzyhly22spyjnmw6u0zpemz62e95625umgxmp3ft27zs4esgmh90a
-{{< /highlight >}}
+
